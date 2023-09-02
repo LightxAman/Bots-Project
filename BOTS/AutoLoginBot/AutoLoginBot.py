@@ -4,14 +4,22 @@ from webdriver_manager.firefox import GeckoDriverManager
 import time
 
 # Define your website link, username, and password`
-website_link = "https://mrei.icloudems.com/corecampus/index.php"
-username = "12104005N094"
-password = "9560252503"
+# https://mrei.icloudems.com/corecampus/index.php -> The website I used this bot for :)
+website_link = ""
+username = ""
+password = ""
 
 # Define the HTML element IDs for username, password, and submit button
-element_for_username = "useriid"
-element_for_password = "actlpass"
-element_for_submit = "psslogin"
+
+# For this website -> https://mrei.icloudems.com/corecampus/index.php
+
+# element_for_username = "useriid"
+# element_for_password = "actlpass"
+# element_for_submit = "psslogin"
+
+element_for_username = ""
+element_for_password = ""
+element_for_submit = ""
 
 # Initialize the WebDriver using GeckoDriverManager (no need for executable_path)
 browser = webdriver.Firefox()
