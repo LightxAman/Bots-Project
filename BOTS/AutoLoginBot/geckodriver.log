@@ -1,0 +1,50 @@
+1693638489727	geckodriver	INFO	Listening on 127.0.0.1:63036
+1693638492770	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63037" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aaman\\AppData\\Local\\Temp\\rust_mozprofileayMD3B"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693638493224	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693638493335	Marionette	INFO	Listening on port 63046
+WebDriver BiDi listening on ws://127.0.0.1:63037
+Read port: 63046
+1693638493535	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63037/devtools/browser/b9e3232f-0c6a-41f7-b5b3-ea3b7d832684
+JavaScript error: https://mrei.icloudems.com/corecampus/index.php, line 584: TypeError: gapi.auth2 is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mrei.icloudems.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mrei.icloudems.com."
+1693638500547	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://mrei.icloudems.com/corecampus/student/student_index.php, line 68: ReferenceError: Client is not defined
+JavaScript error: https://mrei.icloudems.com/corecampus/student/student_index.php, line 959: SyntaxError: expected expression, got '=='
+JavaScript error: https://mrei.icloudems.com/corecampus/student/student_index.php, line 1005: ReferenceError: can't access lexical declaration 'messaging' before initialization
+JavaScript error: https://apis.google.com/_/scs/abc-static/_/js/k=gapi.lb.en.S9zOXUg9rrA.O/m=auth2/rt=j/sv=1/d=1/ed=1/rs=AHpOoo-AXjUK4hNAaKzui0P9Fr9nG2_yZQ/cb=gapi.loaded_0?le=scs, line 152: uncaught exception: [object Object]
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-WGSY3WSYH9&l=dataLayer&cx=c, line 443: Script terminated by timeout at:
+aa.lh@https://www.googletagmanager.com/gtag/js?id=G-WGSY3WSYH9&l=dataLayer&cx=c:443:89
+get@https://www.googletagmanager.com/gtag/js?id=G-WGSY3WSYH9&l=dataLayer&cx=c:441:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-WGSY3WSYH9&l=dataLayer&cx=c:441:87
+aa.vk/c/<@https://www.googletagmanager.com/gtag/js?id=G-WGSY3WSYH9&l=dataLayer&cx=c:441:412
+
+1693638508506	Marionette	INFO	Stopped listening on port 63046
+Dynamically enable window occlusion 1
+1693638559425	geckodriver	INFO	Listening on 127.0.0.1:63142
+1693638562511	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63143" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aaman\\AppData\\Local\\Temp\\rust_mozprofileXvN9PP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693638562786	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693638562884	Marionette	INFO	Listening on port 63152
+WebDriver BiDi listening on ws://127.0.0.1:63143
+Read port: 63152
+1693638563069	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63143/devtools/browser/2fba2c7a-b77c-46d2-8b11-75f28edff09f
+JavaScript error: https://mrei.icloudems.com/corecampus/index.php, line 584: TypeError: gapi.auth2 is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mrei.icloudems.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mrei.icloudems.com."
+1693638569522	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://mrei.icloudems.com/corecampus/student/student_index.php, line 68: ReferenceError: Client is not defined
+JavaScript error: https://mrei.icloudems.com/corecampus/student/student_index.php, line 959: SyntaxError: expected expression, got '=='
+JavaScript error: https://mrei.icloudems.com/corecampus/student/student_index.php, line 1005: ReferenceError: can't access lexical declaration 'messaging' before initialization
+1693638573532	Marionette	INFO	Stopped listening on port 63152
+JavaScript warning: https://mrei.icloudems.com/corecampus/new_ui_assets/vendors/DataTables/datatables.min.js, line 29: Script terminated by timeout at:
+s@https://mrei.icloudems.com/corecampus/new_ui_assets/vendors/DataTables/datatables.min.js:29:238922
+
+Dynamically enable window occlusion 1

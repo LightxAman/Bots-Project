@@ -1,0 +1,21 @@
+autologin bot
+    |
+    |
+    V
+Reroute to attendance and assignment bot
+    |
+    |
+    V
+Screenshot bot or Webscrapper
+    |                   |
+    |                   |
+    V                   V
+screenshot              scrapping
+    |
+    |
+    V
+image to text training
+    |
+    |
+    V
+ result -> notification
