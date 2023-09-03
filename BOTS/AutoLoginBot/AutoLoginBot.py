@@ -12,7 +12,7 @@ password = ""
 # Define the HTML element IDs for username, password, and submit button
 
 # For this website -> https://mrei.icloudems.com/corecampus/index.php
-
+# these are the element values. 
 # element_for_username = "useriid"
 # element_for_password = "actlpass"
 # element_for_submit = "psslogin"
