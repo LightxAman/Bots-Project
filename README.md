@@ -10,6 +10,8 @@ In this repo we are making different types of bots that could be implemented in 
 
 Python
 
+Mozilla Firefox
+
 Selenium 
 ->  pip install selenium
 
