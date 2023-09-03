@@ -1,5 +1,5 @@
 # Bots-Project
-In this repo we are making different types of bots that could be implemented in various different projects as standalones.
+In this repo I am making different types of bots that could be implemented in various different projects as standalones.
 
 # Automatic website login bot
 "Web Scraping and Automated Login using Selenium and Firefox WebDriver"
