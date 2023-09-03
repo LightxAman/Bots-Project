@@ -36,3 +36,11 @@ Update "useriid", "actlpass", and "psslogin" with the HTML element IDs of the co
 ->Clicks the login button.
 
 ->You can add further automation steps after successful login.
+
+# HOW TO USE
+
+1) Enter the website name you wish to login. (For me it was my college icloud erp ems website)
+2) Enter your username and password.
+3) Define the HTML element IDs for username, password, and submit button.
+
+The website will automatically open in firefox browser and login, since this code has a type of auto clicker that clicks on the submit button of the website on its own. You can set the time interval/delay between login.
