@@ -1,7 +1,7 @@
 # Bots-Project
 In this repo we are making different types of bots that could be implemented in various different projects as standalones.
 
-# AutoLoginBot
+# Automatic website login bot
 "Web Scraping and Automated Login using Selenium and Firefox WebDriver"
 
 -> This Python script demonstrates how to automate the login process on a website using the Selenium library with the Firefox WebDriver. It also includes a delay   before clicking the login button.
